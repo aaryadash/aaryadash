@@ -1,5 +1,11 @@
----
+## 🌸 about this repo
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryadash&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+this repository contains my learning and practice as a BSc AIML student.
+i’m building things slowly and consistently.
+
+✨ topics included:
+- basics
+- practice examples
+- small experiments
+
+☁️ learning in public & improving every day
